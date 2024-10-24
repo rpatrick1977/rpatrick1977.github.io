@@ -7,19 +7,19 @@
           <title>My Personal Introduction</title>
 
               <style>
-                     
-                            body { background-color: #96ABA1; }
+                     <body>
+                            body { background-color:96ABA1; }
 
-                              h1 { color: #4B493E; }
+                              h1 { color:4B493E; }
 
-                              p { color: #2C336B;}
-                     
+                              p { color:2C336B;}
+                     </body>
               </style>
 
      </head>
 
                     <body>
-                          <h1>My name is Reginald Patrick</h1>
+                          <h1>"My name is Reginald Patrick</h1>
 
                             <p>
                                   I will be 47 on November 25. 
